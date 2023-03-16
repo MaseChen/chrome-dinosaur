@@ -2,8 +2,8 @@
 Author: MaseChen CYXSam2003@126.com
 Date: 2022-11-15 10:19:41
 LastEditors: MaseChen CYXSam2003@126.com
-LastEditTime: 2022-11-23 20:04:51
-FilePath: \\dino\\dino.py
+LastEditTime: 2023-03-16 10:45:47
+FilePath: \\chrome-dinosaur\\dino.py
 Description: Implement class Dinosaur,
              which includes states like run, jump, duck and die.
 
@@ -14,7 +14,6 @@ Copyright (c) 2022 by MaseChen CYXSam2003@126.com, All Rights Reserved.
 '''
 
 import pygame
-
 import para
 
 

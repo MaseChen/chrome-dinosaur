@@ -2,14 +2,13 @@
 Author: MaseChen CYXSam2003@126.com
 Date: 2022-11-15 23:27:00
 LastEditors: MaseChen CYXSam2003@126.com
-LastEditTime: 2022-11-22 22:15:22
-FilePath: \\dino\\main.py
+LastEditTime: 2023-03-16 10:46:15
+FilePath: \\chrome-dinosaur\\main.py
 Description: Used to launch the game.
              启动游戏。
 
 Copyright (c) 2022 by MaseChen CYXSam2003@126.com, All Rights Reserved.
 '''
-
 
 import menu
 

@@ -2,8 +2,8 @@
 Author: MaseChen CYXSam2003@126.com
 Date: 2022-11-19 20:04:04
 LastEditors: MaseChen CYXSam2003@126.com
-LastEditTime: 2022-11-23 14:18:26
-FilePath: \\dino\\menu.py
+LastEditTime: 2023-03-16 10:48:16
+FilePath: \\chrome-dinosaur\\menu.py
 Description: Implement the main menu.
              实现游戏的主菜单。
 

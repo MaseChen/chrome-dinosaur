@@ -2,8 +2,8 @@
 Author: MaseChen CYXSam2003@126.com
 Date: 2022-11-14 14:31:35
 LastEditors: MaseChen CYXSam2003@126.com
-LastEditTime: 2022-11-25 12:52:42
-FilePath: \\dino\\game_launcher.py
+LastEditTime: 2023-03-16 10:46:01
+FilePath: \\chrome-dinosaur\\game_launcher.py
 Description: The main body of the game, implement the main logic.
              游戏的主类，跑主要逻辑。
 

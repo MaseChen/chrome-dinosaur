@@ -2,8 +2,8 @@
 Author: MaseChen CYXSam2003@126.com
 Date: 2022-11-15 22:48:03
 LastEditors: MaseChen CYXSam2003@126.com
-LastEditTime: 2022-11-24 23:26:22
-FilePath: \\dino\\obstacle.py
+LastEditTime: 2023-03-16 10:47:14
+FilePath: \\chrome-dinosaur\\obstacle.py
 Description: Implement the obstacles:
              Large Cactus, Small Cactus and Bird,
              with their parent class Obstacles.

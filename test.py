@@ -2,11 +2,11 @@
 Author: MaseChen CYXSam2003@126.com
 Date: 2022-11-15 23:33:33
 LastEditors: MaseChen CYXSam2003@126.com
-LastEditTime: 2022-11-18 17:21:55
-FilePath: \dino\test.py
-Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+LastEditTime: 2023-03-16 10:50:33
+FilePath: \\chrome-dinosaur\\test.py
+Description: A file just for debugging when I wrote the program.
 '''
-import para
+""" import para
 import pygame
 import obstacle
 import sys
@@ -35,4 +35,4 @@ while True:
     #     group.add(cactus.LargeCactus())
 
     pygame.display.update()
-    clock.tick(120)
+    clock.tick(120) """

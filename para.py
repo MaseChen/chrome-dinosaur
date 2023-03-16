@@ -2,8 +2,8 @@
 Author: MaseChen CYXSam2003@126.com
 Date: 2022-11-15 11:34:32
 LastEditors: MaseChen CYXSam2003@126.com
-LastEditTime: 2022-11-24 20:57:56
-FilePath: \\dino\\para.py
+LastEditTime: 2023-03-16 10:47:43
+FilePath: \\chrome-dinosaur\\para.py
 Description: Initial values of various variables and constants parameters.
              游戏中使用的各种常数参数或可变参数的初始值。
 

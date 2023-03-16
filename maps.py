@@ -2,8 +2,8 @@
 Author: MaseChen CYXSam2003@126.com
 Date: 2022-11-15 10:18:16
 LastEditors: MaseChen CYXSam2003@126.com
-LastEditTime: 2022-11-24 23:14:54
-FilePath: \\dino\\maps.py
+LastEditTime: 2023-03-16 10:46:26
+FilePath: \\chrome-dinosaur\\maps.py
 Description: Implement the background elements:
              Score, Track, game over icon and reset icon,
              with class Map to manage them.
@@ -17,7 +17,6 @@ Copyright (c) 2022 by MaseChen CYXSam2003@126.com, All Rights Reserved.
 '''
 
 import pygame
-
 import para
 
 
